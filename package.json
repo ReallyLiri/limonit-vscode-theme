@@ -11,12 +11,22 @@
   "categories": [
     "Themes"
   ],
+  "main": "./extension.js",
+  "activationEvents": [
+    "*"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "Limonit Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/theme.json"
+      }
+    ],
+    "commands": [
+      {
+        "command": "limonitTheme.openWebview",
+        "title": "Open Limonit Webview"
       }
     ]
   }
