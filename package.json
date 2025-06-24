@@ -1,9 +1,9 @@
 {
-  "name": "night-quill",
-  "displayName": "Night Quill",
-  "description": "A dark theme with vibrant colors for VS Code",
+  "name": "limonit-theme",
+  "displayName": "Limonit Theme",
+  "description": "A theme inspired by Limonit",
   "version": "0.0.1",
-  "publisher": "parksthecoder",
+  "publisher": "ReallyLiri",
   "repository": "",
   "engines": {
     "vscode": "^1.91.0"
@@ -14,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Night Quill",
+        "label": "Limonit Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/night-quill-color-theme.json"
+        "path": "./themes/theme.json"
       }
     ]
   }
