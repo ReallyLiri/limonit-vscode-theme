@@ -4,7 +4,7 @@
   "description": "A theme inspired by Limonit",
   "version": "0.0.1",
   "publisher": "ReallyLiri",
-  "repository": "",
+  "repository": "https://github.com/ReallyLiri/limonit-vscode-theme",
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -29,5 +29,11 @@
         "title": "Open Limonit Webview"
       }
     ]
+  },
+  "scripts": {
+    "package": "vsce package --allow-star-activation"
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
   }
 }
