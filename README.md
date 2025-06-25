@@ -2,6 +2,8 @@
 
 A customized theme crafted originally by [parksthecoder](https://github.com/parksthecoder) (for VSCode/Cursor/etc) designed to reduce eye strain and enhance your coding experience. With its earthy, mineral-inspired palette, Limonit Theme provides a perfect balance between aesthetics and functionality.
 
+![screenshot](https://i.imgur.com/ZYrQSN3.png)
+
 ## Installation
 
 ### From VSIX File
@@ -30,5 +32,6 @@ Once installed, apply the theme:
 4. Choose "Limonit" from the list of available themes
 
 Alternatively, you can:
+
 - Go to **File** > **Preferences** > **Color Theme** (or **Code** > **Preferences** > **Color Theme** on macOS)
 - Select "Limonit" from the theme list
