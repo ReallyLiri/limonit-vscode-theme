@@ -5,7 +5,7 @@ function activate(context) {
     vscode.StatusBarAlignment.Left,
     100
   );
-  statusBarItem.text = "🐱";
+  statusBarItem.text = "🐈";
   statusBarItem.tooltip = "Limonit";
   statusBarItem.command = "limonitTheme.openWebview";
   statusBarItem.show();

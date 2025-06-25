@@ -2,13 +2,13 @@
   "name": "limonit-theme",
   "displayName": "Limonit Theme",
   "description": "A theme inspired by Limonit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "ReallyLiri",
   "repository": "https://github.com/ReallyLiri/limonit-vscode-theme",
   "icon": "icon.png",
   "scripts": {
     "package": "vsce package --allow-star-activation",
-    "pub": "vsce publish"
+    "pub": "vsce publish --allow-star-activation"
   },
   "devDependencies": {
     "vsce": "^2.15.0"
